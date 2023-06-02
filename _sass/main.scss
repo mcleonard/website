@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  background-color: rgb(34, 44, 51);
+  color: white;
+  font-family: 'Mukta', sans-serif;
+}
+
+.container {
+  margin: auto;
+  padding: 65px 40px 0px 40px;
+  max-width: 800px;
+}
+
+.content {
+  margin: 20px 0;
+}
+
+ul.blog-roll {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.archive {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul a {
+  text-decoration: none;
+  color: rgb(233, 172, 98)
+}
+
+ul a:hover {
+  text-decoration: underline;
+}
+
+.archive .title {
+  font-size: 14pt;
+  margin-right: 10px;
+  color: white;
+}
+
+.archive .title:hover {
+  font-size: 14pt;
+  margin-right: 10px;
+  text-decoration: underline;
+}
+
+.projects {
+  padding-left: 10px;
+  padding-right: 50px;
+}
+
+.blog-roll h2 {
+  font-size: 24pt;
+  font-weight: 300;
+}
+
+.blog-roll h2 a {
+  color: white;
+}
+
+.blog-roll h2:hover {
+  text-decoration: underline;
+}
+
+.blog-roll li {
+  margin-bottom: 25px;
+}
+
+.post-date {
+  color: white;
+  font-style: oblique;
+}
+
+h1,
+h2 {
+  font-weight: 300;
+  color: white;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+p a {
+  text-decoration: none;
+  color: rgb(233, 172, 98)
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: 0;
+  border-bottom: 1px dashed rgb(105, 90, 73);
+  margin-bottom: 20px;
+}

@@ -1,0 +1,22 @@
+nav .name {
+  font-size: 18pt;
+  font-weight: 600;
+  margin-right: 20px;
+}
+
+nav .name a {
+  color: white;
+}
+
+.nav_links a {
+  margin: 0 5px;
+  font-size: 12pt;
+  font-weight: 400;
+  letter-spacing: 1pt;
+  color: white;
+  text-transform: uppercase;
+}
+
+.nav_links .current {
+  color: rgb(223, 160, 83);
+}
